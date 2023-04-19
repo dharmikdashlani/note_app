@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "813840538618",
+    "project_id": "note-keeper-app-f5ddc",
+    "storage_bucket": "note-keeper-app-f5ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813840538618:android:e477ce0678ec06cb7d6243",
+        "android_client_info": {
+          "package_name": "com.notes21.notekeeper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813840538618-ulg92tgp0p7cq60e1i0734v0knudt236.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notes21.notekeeper_app",
+            "certificate_hash": "f41b18662c140a8b62bdd0f662df2f286e1040f9"
+          }
+        },
+        {
+          "client_id": "813840538618-seinoiarcamneubt02kpjojvqgv9ivei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JjnMNYgVslEkdxd3szOMrj0ExptlW3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813840538618-540m1p82mk3dsmlr4540nrplp5nluh9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
